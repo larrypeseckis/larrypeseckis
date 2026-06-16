@@ -44,7 +44,7 @@ A Burp Suite Community Edition extension that exposes Burp's HTTP capabilities a
 
 **AI / Cyber / Security** — CompTIA SecAI+, SecurityX, CySA+, PenTest+, Security+, Cloud+, Project+, Network+, Server+, A+ · ISC2 CC, SSCP · CISSP (exam July 2026) · CyberSec First Responder CFR-410
 
-**Infrastructure / Labs** — ITIL 4 Foundation · LPI Linux Essentials · TryHackMe SEC1, PT1, SAL1 · HackTheBox CJCA
+**Infrastructure / Labs** — ITIL 4 Foundation · LPI Linux Essentials · TryHackMe SEC1, PT1, SAL1, AI1 · HackTheBox CJCA
 
 **Education** — B.S. Cybersecurity and Information Assurance, Western Governors University (expected Dec. 2026) · Excellence Awards: Applied Cybersecurity, Legal Issues in Information Security
 
