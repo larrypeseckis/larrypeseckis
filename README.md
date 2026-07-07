@@ -42,12 +42,9 @@ A Burp Suite Community Edition extension that exposes Burp's HTTP capabilities a
 
 ## Credentials
 
-**AI / Cyber / Security** — CompTIA SecAI+, SecurityX, CySA+, PenTest+, Security+, Cloud+, Project+, Network+, Server+, A+ · ISC2 CC, SSCP · CISSP (exam July 2026) · CyberSec First Responder CFR-410
+Current Certifications: CompTIA: SecurityX | SecAI+ | PenTest+ | CySA+ | Security+ | Cloud+ | Network+ | Server+ | A+ (Core 1 & 2 both passed) | Project+. ISC2: Certified in Cybersecurity (CC) | SSCP. Linux: LPIC-1. TryHackMe: SEC1 | PT1 | SAL1 | AI1. HackTheBox: CJCA | COAE. Other: CFR-410 | ITIL 4. In progress: CISSP (exam scheduled July 2026).
 
-**Infrastructure / Labs** — ITIL 4 Foundation · LPI Linux Essentials · TryHackMe SEC1, PT1, SAL1, AI1 · HackTheBox CJCA
-
-**Education** — B.S. Cybersecurity and Information Assurance, Western Governors University (expected Dec. 2026) · Excellence Awards: Applied Cybersecurity, Legal Issues in Information Security
-
+Currently enrolled in WGU BS in Cybersecurity and Information Assurance.
 ---
 
 ## Find Me
