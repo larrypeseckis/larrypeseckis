@@ -1,14 +1,14 @@
 <!-- FIELD CONSOLE / Larry Peseckis
-Self-contained artwork in assets/. No badge service, JavaScript, or workflow required.
+Self-contained SVG artwork beside this README in the repository root. No badge service, JavaScript, or workflow required.
 Console motion is a short decorative sequence, not live telemetry.
-Content review: 2026-09-10. See SETUP.md for installation and maintenance.
+Content review: 2026-09-10. Root-layout edition: keep this README and the 32 SVG files together.
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/console-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/console-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/console-light-mobile.svg">
-  <img src="assets/console-light.svg" alt="Larry Peseckis — AI and Cloud Security Architect. Capability is not authority. Success is not proof. A proposed action must cross an authority boundary before consequence. Conceptual schematic, not telemetry." width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="console-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="console-dark.svg">
+  <source media="(max-width: 620px)" srcset="console-light-mobile.svg">
+  <img src="console-light.svg" alt="Larry Peseckis — AI and Cloud Security Architect. Capability is not authority. Success is not proof. A proposed action must cross an authority boundary before consequence. Conceptual schematic, not telemetry." width="100%">
 </picture>
 
 <p align="center">
@@ -33,18 +33,18 @@ This is my public workbench. Tools, test fixtures, research, field notes, and ex
 <p>
 <a href="https://github.com/larrypeseckis/burp-cc-bridge">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/burp-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/burp-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/burp-light-mobile.svg">
-  <img src="assets/burp-light.svg" alt="Burp CC Bridge — a localhost REST API for repeatable, authorized web-security lab workflows. Java." width="49%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="burp-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="burp-dark.svg">
+  <source media="(max-width: 620px)" srcset="burp-light-mobile.svg">
+  <img src="burp-light.svg" alt="Burp CC Bridge — a localhost REST API for repeatable, authorized web-security lab workflows. Java." width="49%">
 </picture>
 </a>
 <a href="https://github.com/larrypeseckis/attck-pulse">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/pulse-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pulse-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/pulse-light-mobile.svg">
-  <img src="assets/pulse-light.svg" alt="ATT&amp;CK Pulse — public threat reporting turned into queryable trend evidence. Python and PostgreSQL." width="49%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="pulse-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="pulse-dark.svg">
+  <source media="(max-width: 620px)" srcset="pulse-light-mobile.svg">
+  <img src="pulse-light.svg" alt="ATT&amp;CK Pulse — public threat reporting turned into queryable trend evidence. Python and PostgreSQL." width="49%">
 </picture>
 </a>
 </p>
@@ -68,18 +68,18 @@ The working surface: cloud infrastructure, Linux, identity, containers, infrastr
 <p>
 <a href="https://github.com/larrypeseckis/agentic-browser-boundary-tests">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/boundary-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/boundary-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/boundary-light-mobile.svg">
-  <img src="assets/boundary-light.svg" alt="Agentic Browser Boundary Tests — benign local scenarios, inert canaries, and evidence logs for scoped-authorization boundaries." width="49%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="boundary-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="boundary-dark.svg">
+  <source media="(max-width: 620px)" srcset="boundary-light-mobile.svg">
+  <img src="boundary-light.svg" alt="Agentic Browser Boundary Tests — benign local scenarios, inert canaries, and evidence logs for scoped-authorization boundaries." width="49%">
 </picture>
 </a>
 <a href="https://github.com/larrypeseckis/frontier-cyber-risk-eval">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/eval-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/eval-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/eval-light-mobile.svg">
-  <img src="assets/eval-light.svg" alt="Frontier Cyber Risk Evaluation — labeled cyber-assistance prompts, an automated judge, and blind human comparison." width="49%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="eval-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="eval-dark.svg">
+  <source media="(max-width: 620px)" srcset="eval-light-mobile.svg">
+  <img src="eval-light.svg" alt="Frontier Cyber Risk Evaluation — labeled cyber-assistance prompts, an automated judge, and blind human comparison." width="49%">
 </picture>
 </a>
 </p>
@@ -115,10 +115,10 @@ The working surface: cloud infrastructure, Linux, identity, containers, infrastr
 
 <a href="https://robotexplains.ai/">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/teaching-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/teaching-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/teaching-light-mobile.svg">
-  <img src="assets/teaching-light.svg" alt="Robot Explains — comic-style lessons and games about computers, cybersecurity, and AI for kids, parents, teachers, and curious humans." width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="teaching-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="teaching-dark.svg">
+  <source media="(max-width: 620px)" srcset="teaching-light-mobile.svg">
+  <img src="teaching-light.svg" alt="Robot Explains — comic-style lessons and games about computers, cybersecurity, and AI for kids, parents, teachers, and curious humans." width="100%">
 </picture>
 </a>
 
@@ -142,10 +142,10 @@ Satirical sites about containment theater and surveillance overconfidence. The j
 
 <a href="https://github.com/larrypeseckis/micrm">
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/research-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/research-light-mobile.svg">
-  <img src="assets/research-light.svg" alt="MICRM — Machine-Initiated Consequence Reference Model. Distinguishes consequence structure, authority and accountability closure, contribution-sensitive candidacy, and evidentiary warrant. Formal research with explicit limitations." width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="research-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="research-dark.svg">
+  <source media="(max-width: 620px)" srcset="research-light-mobile.svg">
+  <img src="research-light.svg" alt="MICRM — Machine-Initiated Consequence Reference Model. Distinguishes consequence structure, authority and accountability closure, contribution-sensitive candidacy, and evidentiary warrant. Formal research with explicit limitations." width="100%">
 </picture>
 </a>
 
@@ -169,10 +169,10 @@ Satirical sites about containment theater and surveillance overconfidence. The j
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="assets/principle-dark-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/principle-dark.svg">
-  <source media="(max-width: 620px)" srcset="assets/principle-light-mobile.svg">
-  <img src="assets/principle-light.svg" alt="Operating principle: Task success is not system correctness. Build the system. Test the assumption. Keep the evidence." width="100%">
+  <source media="(prefers-color-scheme: dark) and (max-width: 620px)" srcset="principle-dark-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="principle-dark.svg">
+  <source media="(max-width: 620px)" srcset="principle-light-mobile.svg">
+  <img src="principle-light.svg" alt="Operating principle: Task success is not system correctness. Build the system. Test the assumption. Keep the evidence." width="100%">
 </picture>
 
 <p align="center">
