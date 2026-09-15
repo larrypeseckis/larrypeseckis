@@ -49,8 +49,8 @@ This is my public workbench. Tools, test fixtures, research, field notes, and ex
 </a>
 </p>
 
-<details>
-<summary><b>Open build notes</b> — what these systems actually do</summary>
+<details open>
+<summary><b>Build notes</b> — what these systems actually do</summary>
 
 **[Burp CC Bridge](https://github.com/larrypeseckis/burp-cc-bridge)** exposes Burp Suite Community Edition's HTTP capabilities through a local REST API for scripted, authorized testing.
 
@@ -84,8 +84,8 @@ The working surface: cloud infrastructure, Linux, identity, containers, infrastr
 </a>
 </p>
 
-<details>
-<summary><b>Open test notes</b> — scope, evidence, and failure modes</summary>
+<details open>
+<summary><b>Test notes</b> — scope, evidence, and failure modes</summary>
 
 **[Agentic Browser Boundary Tests](https://github.com/larrypeseckis/agentic-browser-boundary-tests)** asks whether webpage content can cause an agent to cross a boundary that only the user should authorize. Six local scenarios cover hidden instructions, game framing, cross-page retrieval, scoped authorization, read-versus-submit grants, and incremental scope creep. Inert canaries. Local evidence. Per-test findings—not a universal safety verdict.
 
@@ -124,8 +124,8 @@ The working surface: cloud infrastructure, Linux, identity, containers, infrastr
 
 **[Robot Explains](https://robotexplains.ai/)** turns web, cybersecurity, and AI concepts into illustrated explanations, guided learning, and games. What is it? Why does it matter? How do I use it safely?
 
-<details>
-<summary><b>Open the side channel</b> — sometimes the explanation is satire</summary>
+<details open>
+<summary><b>Side channel</b> — sometimes the explanation is satire</summary>
 
 **[Bigger Sandbox](https://biggersandbox.ai/)** — Containment, but bigger this time.
 
@@ -153,8 +153,8 @@ Satirical sites about containment theater and surveillance overconfidence. The j
 
 **Scope matters:** this is a reference model with stated limits—not a completed theory or a universally validated, substrate-neutral framework.
 
-<details>
-<summary><b>Open the research index</b> — adjacent models and control questions</summary>
+<details open>
+<summary><b>Research index</b> — adjacent models and control questions</summary>
 
 **[Frontier Cyber Risk Taxonomy](https://github.com/larrypeseckis/frontier-cyber-risk-taxonomy)** — cyber-assistance classification across uplift, autonomy, authorization verifiability, and cumulative capability transfer.
 
