@@ -91,7 +91,7 @@ The working surface: cloud infrastructure, Linux, identity, containers, infrastr
 
 **[Frontier Cyber Risk Eval](https://github.com/larrypeseckis/frontier-cyber-risk-eval)** pairs a labeled evaluation set with an automated judge and a blind human-comparison harness. A high agreement score does not settle whether the judge covered the difficult cases.
 
-**[Field lab archive](https://larrypeseckis.github.io/ctf-rooms/)** connects offensive and defensive practice through documented attack chains, detection opportunities, and lessons learned.
+**[Field lab archive](https://larrypeseckis.github.io/ctf-rooms/)** CTF Archive that connects offensive and defensive practice through documented attack chains, detection opportunities, and lessons learned.
 
 </details>
 
